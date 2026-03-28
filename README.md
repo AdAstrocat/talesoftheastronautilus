@@ -32,6 +32,16 @@ Welcome adventurers! This is so unbuilt and raggedy but hopefully in due course 
 ```
 ````
 
+```
+- [2020] A year
+- [2020-02] A month
+- [2020-02-28] A day
+- [2020-02-28T12] An hour
+- [2020-02-28T12:30] A minute
+- [2020-02-28T12:30:09] A second
+```
+
+
 # Individual Timelines
 
 ## Ant
