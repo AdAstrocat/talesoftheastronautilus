@@ -16,6 +16,7 @@ Welcome adventurers! This is so unbuilt and raggedy but hopefully in due course 
 > Contents
 
 # Global Timeline
+````markdown
 ```chronos
 > NOTODAY
 > ORDERBY color|start
@@ -27,9 +28,9 @@ Welcome adventurers! This is so unbuilt and raggedy but hopefully in due course 
 - [88-03] {Party} The Party first meet
 - [88-04] {Party} First Arrival on Telemre
 - [89-09] {Party} Arrive on the Cog
-- [0-100] {Party} "they fucked around, later they found out"  | Ezo wrote it down because otherwise it's unscientific
-  
+- [0-100] {Party} "they fucked around, later they found out"  | Ezo wrote it down because otherwise it's unscientific 
 ```
+````
 
 # Individual Timelines
 
